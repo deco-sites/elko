@@ -156,7 +156,7 @@ const manifest = {
     "$live/sections/PageInclude.tsx": i2$$$$$2,
     "$live/sections/Slot.tsx": i2$$$$$3,
     "$live/sections/UseSlot.tsx": i2$$$$$4,
-    "deco-sites/links/sections/Links.tsx": $$$$$$$$0,
+    "deco-sites/elko/sections/Links.tsx": $$$$$$$$0,
     "deco-sites/std/sections/Analytics.tsx": i2$$$$$5,
     "deco-sites/std/sections/configButterCMS.global.tsx": i2$$$$$6,
     "deco-sites/std/sections/configNuvemShop.tsx": i2$$$$$7,
@@ -169,7 +169,7 @@ const manifest = {
     "deco-sites/std/sections/SEOPLP.tsx": i2$$$$$14,
     "deco-sites/std/sections/VTEXPortalDataLayerCompatibility.tsx": i2$$$$$15,
   },
-  "name": "deco-sites/links",
+  "name": "deco-sites/elko",
   "loaders": {
     "$live/loaders/secret.ts": i1$0,
     "$live/loaders/state.ts": i2$$$0,

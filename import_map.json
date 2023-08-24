@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/elko/": "./",
+
     "deco-sites/links/": "./",
     "$store/": "./",
     "$live/": "https://denopkg.com/deco-cx/deco@1.29.9/",
